@@ -1,0 +1,19 @@
+{
+  "name": "salesforce",
+  "version": "1.0.0",
+  "description": "Testings",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open --e2e"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.9.0",
+    "jsonwebtoken": "^9.0.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "jsonwebtoken": "^9.0.0"
+  }
+}

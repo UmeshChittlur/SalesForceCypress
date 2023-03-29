@@ -1,0 +1,5 @@
+cypress/screenshots
+cypress/videos
+server.key
+local.env
+/node_modules
